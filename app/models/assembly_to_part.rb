@@ -1,0 +1,2 @@
+class AssemblyToPart < ApplicationRecord
+end
