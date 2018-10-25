@@ -1,24 +1,13 @@
-# README
+# Hello tu es sur le repository qui héberge mon application rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Fait par Axel // @Axel
 
-Things you may want to cover:
+## Versions Ruby et Rails
+Ruby version 2.5.1
+Rails version 5.2.1
 
-* Ruby version
+## Fonctionnement général:
 
-* System dependencies
+1/ Euh bah y'avait pas à faire de rails db:seed du coup y'a juste du code...
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## A toi de jouer pour la correction, si t'as vraiment la motiv...
